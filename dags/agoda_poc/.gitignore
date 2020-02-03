@@ -1,0 +1,9 @@
+./youtube_handler/videos/*.mp4
+*.pyc
+*.env
+transcript_handler/input/*
+youtube_handler/videos/*
+keyframes_handler/ImageRepo/*
+logs/
+screenshots/
+bin/

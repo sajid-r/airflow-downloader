@@ -1,0 +1,14 @@
+﻿boto3
+python-dotenv
+dateparser
+datetime
+requests
+Flask==1.1.0
+Flask-Cors
+Flask-RESTful==0.3.6
+requests-toolbelt==0.8.0
+s3transfer
+youtube-dl==2020.1.24
+ffmpeg==1.4
+certifi
+python-dotenv
