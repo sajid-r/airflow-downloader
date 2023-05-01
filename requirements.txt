@@ -1,9 +1,9 @@
-﻿boto3
+boto3
 python-dotenv
 dateparser
 datetime
 requests
-Flask==1.1.0
+Flask==2.3.2
 Flask-Cors
 Flask-RESTful==0.3.6
 requests-toolbelt==0.8.0
